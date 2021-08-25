@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    font-size: 16px;
+    font-family: 'Roboto' sans-serif;
+    background-color: #131313;
+}
+
+h1 {
+    color: #fff;
+
+}
+
+.media-picture {
+    width: 100%;
+    height: 400px;
+    margin: 2em;
+    background: url('https://wallpaperforu.com/wp-content/uploads/2020/04/999107-scaled.jpg') center no-repeat;
+    background-size: cover;
+}
+
+.review-score {
+    height: 20px;
+    padding: .2em .5em;
+    margin-top: 10px;
+    color: #fff;
+    background-color: #e6bd09;
+    border-radius: .15em;
+}
+
+h2 {
+    color: steelblue;
+}
+
+p {
+    color: #bdbdbd;
+}
+
+a {
+    color: #e6bd09;
+}
+
